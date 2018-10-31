@@ -94,15 +94,16 @@ permalink: /
 
                     {% if site.xing_username %}
                     <li><a class="fa fa-2x fa-xing" href="https://xing.com/profile/{{ site.xing_username }}"><span class="description">Xing</span></a></li>
-                    {% endif %}
+                    {% endif %}  
 
-                    {% if site.gitlab_username %}
-                    <li><a class="fa fa-gitlab" href="https://gitlab.com/{{ site.gitlab_username }}"><span class="description">Gitlab</span></a></li>
-                    {% endif %}   
+                     {% if site.gitlab_username %}
+                    <li><a class="fa fa-2x fa-gitlab" href="https://gitlab.com/{{ site.gitlab_username }}"><span class="description">Gitlab</span></a></li>
+                    {% endif %}                                
 
                     {% if site.kaggle_username %}
-                    <li><a class="fa fa-kaggle" href="https://kaggle.com/{{ site.kaggle_username }}"><span class="description">Kaggle</span></a></li>
-                    {% endif %}                       
+                    <li><a class="fa fa-2x fa-kaggle" href="https://kaggle.com/{{ site.kaggle_username }}"><span class="description">Kaggle</span></a></li>
+                    {% endif %}                                
+
 
                     {% if site.blog_url %}
                     <li><a class="fa fa-2x fa-tags" href="{{ site.baseurl }}{{ site.blog_url }}"><span class="description">Blog</span></a></li>
