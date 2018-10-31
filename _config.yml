@@ -24,9 +24,9 @@ reddit_username: Jonny-Crash
 #tumblr_username: your_tumblr_username_goes_here
 #weibo_username: your_weibo_username_goes_here
 #lastfm_username: your_lastfm_username_goes_here
-blog_url: "/blog"
+#blog_url: "/blog"
 email: thomas.mildner@yahoo.de
-public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
+#public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 
 
 avatar: yes
