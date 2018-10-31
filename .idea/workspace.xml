@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb0afc18-c931-4081-9a72-be723878eeaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +17,7 @@
     <session id="-749103188">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.19" value="1" />
           <entry key="project.opened" value="3" />
@@ -145,7 +145,7 @@
       <updated>1540974230616</updated>
       <workItem from="1540974231999" duration="391000" />
       <workItem from="1540974634170" duration="32000" />
-      <workItem from="1540974716761" duration="1437000" />
+      <workItem from="1540974716761" duration="1613000" />
     </task>
     <task id="LOCAL-00001" summary="add xing profile">
       <created>1540975529246</created>
@@ -158,11 +158,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1860000" />
+    <option name="totallyTimeSpent" value="2036000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="2" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
